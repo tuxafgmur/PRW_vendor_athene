@@ -571,7 +571,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/athene/proprietary/lib/libdiag_system.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libdiag_system.so \
     vendor/motorola/athene/proprietary/vendor/bin/ATFWD-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/ATFWD-daemon \
     vendor/motorola/athene/proprietary/vendor/bin/rmt_storage:$(TARGET_COPY_OUT_VENDOR)/bin/rmt_storage \
-    vendor/motorola/athene/proprietary/vendor/bin/tftp_server:$(TARGET_COPY_OUT_VENDOR)/bin/tftp_server \
     vendor/motorola/athene/proprietary/vendor/bin/time_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/time_daemon \
     vendor/motorola/athene/proprietary/vendor/etc/permissions/privapp-permissions-com.qualcomm.atfwd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/privapp-permissions-com.qualcomm.atfwd.xml \
     vendor/motorola/athene/proprietary/vendor/etc/permissions/privapp-permissions-com.quicinc.cne.CNEService.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/privapp-permissions-com.quicinc.cne.CNEService.xml \
