@@ -540,6 +540,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/athene/proprietary/vendor/etc/permissions/com.qualcomm.qti.imscmservice-V2.1-java.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/com.qualcomm.qti.imscmservice-V2.1-java.xml \
     vendor/motorola/athene/proprietary/vendor/etc/permissions/com.qualcomm.qti.imscmservice.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/com.qualcomm.qti.imscmservice.xml \
     vendor/motorola/athene/proprietary/vendor/etc/permissions/embms.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/embms.xml \
+    vendor/motorola/athene/proprietary/vendor/lib/com.qualcomm.qti.imscmservice@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qualcomm.qti.imscmservice@2.0.so \
+    vendor/motorola/athene/proprietary/vendor/lib/com.qualcomm.qti.uceservice@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qualcomm.qti.uceservice@2.0.so \
     vendor/motorola/athene/proprietary/vendor/lib/lib-dplmedia.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib-dplmedia.so \
     vendor/motorola/athene/proprietary/vendor/lib/lib-imscamera.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib-imscamera.so \
     vendor/motorola/athene/proprietary/vendor/lib/lib-imsdpl.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib-imsdpl.so \
