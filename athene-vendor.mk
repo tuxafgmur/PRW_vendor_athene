@@ -340,13 +340,6 @@ PRODUCT_COPY_FILES += \
 
 # Firmware
 PRODUCT_COPY_FILES += \
-    vendor/motorola/athene/proprietary/vendor/etc/firmware/venus-v1.b00:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/venus-v1.b00 \
-    vendor/motorola/athene/proprietary/vendor/etc/firmware/venus-v1.b01:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/venus-v1.b01 \
-    vendor/motorola/athene/proprietary/vendor/etc/firmware/venus-v1.b02:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/venus-v1.b02 \
-    vendor/motorola/athene/proprietary/vendor/etc/firmware/venus-v1.b03:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/venus-v1.b03 \
-    vendor/motorola/athene/proprietary/vendor/etc/firmware/venus-v1.b04:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/venus-v1.b04 \
-    vendor/motorola/athene/proprietary/vendor/etc/firmware/venus-v1.mbn:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/venus-v1.mbn \
-    vendor/motorola/athene/proprietary/vendor/etc/firmware/venus-v1.mdt:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/venus-v1.mdt \
     vendor/motorola/athene/proprietary/vendor/firmware/a420_pfp.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a420_pfp.fw \
     vendor/motorola/athene/proprietary/vendor/firmware/a420_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a420_pm4.fw \
     vendor/motorola/athene/proprietary/vendor/firmware/cpp_firmware_v1_10_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_10_0.fw \
